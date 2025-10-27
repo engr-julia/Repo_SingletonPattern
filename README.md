@@ -43,7 +43,7 @@ You are required to:
 ## 👨‍💻 Author
 **Julia T. Rodrigo**  
 📍 New Era University — BS Computer Science  
-📚 2nd Year | Project: Centralized Queuing System for Pag-IBIG Office  
+📚 3rd Year | Project: Centralized Queuing System for Pag-IBIG Office  
 
 ---
 
