@@ -16,6 +16,13 @@ This approach aims to maintain an **organized queuing process** for individuals 
 
 ---
 
+## 🧱 UML Class Diagram
+Below is the UML class diagram representing the structure and relationships of the system:
+
+![Centralized Queuing System UML Diagram](UML%20Diagram.jpeg)
+
+---
+
 ## 🏁 Purpose
 The main goal of this system is to:
 - Maintain an orderly and synchronized queuing process.
@@ -36,10 +43,10 @@ You are required to:
 ## 👨‍💻 Author
 **Julia T. Rodrigo**  
 📍 New Era University — BS Computer Science  
-📚 3rd Year | Project: Centralized Queuing System for Pag-IBIG Office  
+📚 2nd Year | Project: Centralized Queuing System for Pag-IBIG Office  
 
 ---
 
 ## 📎 Notes
-This README file contains the **official problem statement** for submission and documentation purposes.  
+This README file contains the **official problem statement and UML diagram** for submission and documentation purposes.  
 All source code, diagrams, and explanations must be uploaded to the GitHub repository linked to this project.
